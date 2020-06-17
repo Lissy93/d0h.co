@@ -6,3 +6,4 @@
 <p align="center"><img width="350" src="https://i.imgur.com/YIDvErm.jpg"/></p>
 
 
+License: [WTFPL](http://www.wtfpl.net/)
